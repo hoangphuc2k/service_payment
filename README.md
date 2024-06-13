@@ -38,6 +38,7 @@ The Payment Service System is a commands-line application that allows customers 
   ┃ ┃ ┣ 📜PaymentService.java
   ┃ ┃ ┗ 📜PaymentServiceImpl.java
   ┃ ┣ 📂tests
+  ┃ ┃ ┣ 📜CommandProcessorTest.java
   ┃ ┃ ┗ 📜PaymentServiceTest.java
   ┃ ┣ 📂utils
   ┃ ┃ ┗ 📜DateUtil.java
