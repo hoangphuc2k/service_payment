@@ -69,7 +69,7 @@ The Payment Service System is a commands-line application that allows customers 
 1. **Download JUnit and Hamcrest Libraries**
    Download JUnit 4 and Hamcrest libraries and place them in the libs directory.
 2. **Compile the Tests**
-   Navigate to the project root directory and compile the tests files along with the source files.
+   Navigate to the src directory and compile the tests files along with the source files.
    ```shell
    javac -d out -classpath "libs\junit-4.13.2.jar;libs\hamcrest-core-1.3.jar;out" tests\*.java
    ```
